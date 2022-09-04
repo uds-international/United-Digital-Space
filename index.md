@@ -1,2 +1,2 @@
-<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://udsllc.gumroad.com/l/uds-international/" style="border: none; height: 1400px;
-width: 1000px;"> </iframe>>
+<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed"><a href="https://udsllc.gumroad.com/l/uds-international">Loading...</a></div>
